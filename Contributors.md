@@ -4463,6 +4463,7 @@ guanj65
 - [chenshiwei-io](https://github.com/chenshiwei-io)
 - [Andrea-Latorre](https://github.com/latorreandrea)
 - [MarshmelloRice](https://github.com/MarshmelloRice/)
+- [Sam Khera](https://github.com/kherasam18/)
 - [kaz-e4b880](https://github.com/kaz-e4b880/)
 - [Syed-Muhammad-Hassan-Shah](https://github.com/hassanshah0900)
 - [Microwavedd](https://github.com/microwavedd)
